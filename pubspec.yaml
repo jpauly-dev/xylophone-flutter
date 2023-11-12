@@ -16,6 +16,7 @@ dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^3.0.1
+  audioplayers: ^5.2.0
 
   cupertino_icons: ^1.0.6
   # Use Audioplayers dependency version 0.17.4
